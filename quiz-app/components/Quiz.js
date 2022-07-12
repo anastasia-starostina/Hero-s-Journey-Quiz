@@ -1,6 +1,6 @@
 import { useState } from "react";
-import Question from "../Question";
-import { questionsArray, heroStages, answerOptions } from "../../lib/quizData";
+import Question from "./Question";
+import { questionsArray, heroStages, answerOptions } from "../lib/quizData";
 
 // key needs to be on the looped elements - the parent element
 
@@ -68,8 +68,8 @@ export default function Quiz() {
           </li>
         ))}
       </ol>
-      <input type="submit" />
-      <p className="final-result">{isSubmitted ? finalAnswer : null}</p>
+      <input className="cursor-pointer" type="submit" />
+      <p>{isSubmitted ? finalAnswer : null}</p>
     </form>
   );
 }

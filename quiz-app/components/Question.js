@@ -1,9 +1,9 @@
-import AnswerButtons from "../AnswerButtons";
+import AnswerButtons from "./AnswerButtons";
 
 export default function Question({ question, onChange }) {
   return (
     <>
-      <label htmlFor={question}>
+      <label className="text-blue-500" htmlFor={question}>
         {question} {"\n"}
       </label>
       <AnswerButtons question={question} onChange={onChange} />
