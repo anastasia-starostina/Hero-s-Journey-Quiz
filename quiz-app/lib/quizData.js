@@ -24,8 +24,4 @@ export const answerOptions = [
   "Disagree",
 ];
 
-/* 
-Object 
-- with a unique id
-- without an id can use the question as the key.
-*/
+
