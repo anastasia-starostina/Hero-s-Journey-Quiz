@@ -2,6 +2,12 @@
 
 We were inspired by Joseph Campbell's framework of the Hero's Journey & the 16 Personalities UI to make a personality quiz with this theme. We saw this project as an opportunity to learn and experiment with new technology and challenged ourselves to explore Next JS and CSS Tailwind.
 
+ <img src="./heros_journey.png" width="400px"/> 
+ 
+<em> Illustration of the Hero's Journey framework</em>
+
+In narratology and comparative mythology, the hero's journey, or the monomyth, is the common template of stories that involve a hero who goes on an adventure, endures a decisive crisis, and comes home changed or transformed. A hero, according to Joseph Campbell, <em>“is someone who has given his or her life to something bigger than oneself.”</em>
+
 ## Authors
 
 - [Afam Okoh](https://www.github.com/afam-io)
