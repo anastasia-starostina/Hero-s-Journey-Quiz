@@ -66,12 +66,15 @@ Instead of using a UI library to build the form, we challenged ourselves to buil
 There were a lot of ways to calculate a final answer from the inputs provided by the user. After discussing and planning the logic, we used the .reduce() method to find the most occuring answer. 
 
 
+## References
 
+[The Hero with A Thousand Faces (The Collected Works of Joseph Campbell)](https://www.amazon.co.uk/Thousand-Faces-Collected-Joseph-Campbell/dp/1577315936/ref=pd_lpo_1?pd_rd_i=1577315936&psc=1)
 
-## Lessons Learnt
+[THE MONOMYTH (THE HERO'S JOURNEY)](https://libguides.gvsu.edu/c.php?g=948085&p=6857311)
 
+[Tailwind CSS](https://tailwindcss.com/)
 
-## Acknowledgements
+[Next JS Documentation](https://nextjs.org/docs)
 
 
 
